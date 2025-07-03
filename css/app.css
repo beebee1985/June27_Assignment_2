@@ -1,0 +1,21 @@
+h2 {
+  color: #2c3e50;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 24px;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 4px;
+  margin-bottom: 16px;
+}
+
+.card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
