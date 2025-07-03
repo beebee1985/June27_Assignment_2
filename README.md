@@ -24,9 +24,6 @@ Welcome to the repository for **Assignment 2** – June 27, 2025. This project d
 - [Known Bugs](#known-bugs)
 - [Contributors](#contributors)
 - [Instructions](#instructions)
-- [Screenshot](#screenshot)
-- [Git Log](#git-log)
-- [Quote of the Challenge](#quote-of-the-challenge)
 
 ---
 
